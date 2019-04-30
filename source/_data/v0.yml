@@ -2,26 +2,19 @@ navigation:
   -
     levels:
       -
-        text : 文档中心
-        href: /
-      -
-        text: Seek
+        text : Seek
         href: index.html
   -
     divider: true
   -
-    text: 介绍           
+    text: Summary           
     href: index.html
   -
     divider: true
   -
-    text: 快速开始
+    text: Install
   -
-    text: 安装
-  -
-    text: 配置
-  -
-    text: 使用
+    text: Quick Start
   -
     divider: true
   -
@@ -33,6 +26,6 @@ navigation:
   -
     divider: true
   -
-    text: Power by MuGuangyi
+    text: Fork me on Github
     href: http://github.com/muguangyi/seek
     external: true
