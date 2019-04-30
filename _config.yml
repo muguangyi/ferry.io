@@ -10,7 +10,7 @@ timezone: UTC
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://muguangyi.github.io/seek.io/
-root: /
+root: /seek.io/
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -24,3 +24,12 @@ node_sass:
   includePaths:
    - node_modules
 
+cookbook:
+  favicon: favicon.ico
+  partials:
+    index:
+      - _layout/index.ejs
+  tag:
+    anchor:
+      default: seek
+      core: https://github.com/muguangyi/seek
