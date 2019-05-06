@@ -1,7 +1,6 @@
 menu:
   docs: 文档
   api: API
-  search: 搜索
 
 index:
   get_started: 开始使用
