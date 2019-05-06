@@ -92,7 +92,8 @@ hexo.extend.helper.register('url_for_lang', function(path) {
   var lang = this.page.lang;
   var url = this.url_for(path);
 
-  if (lang !== 'en' && url[0] === '/') url = '/' + lang + url;
+  // NOTE: Closed it temporarily
+  // if (lang !== 'en' && url[0] === '/') url = '/' + lang + url;
 
   return url;
 });
