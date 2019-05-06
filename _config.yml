@@ -8,8 +8,6 @@ timezone: UTC
 url: https://muguangyi.github.io/seek.io
 root: /seek.io/
 
-relative_link: true
-
 theme: navy-s
 
 highlight:
