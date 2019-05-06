@@ -1,4 +1,0 @@
----
-title: Seek
-layout: index
----

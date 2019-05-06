@@ -1,35 +1,18 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
-# Site
 title: Seek
+subtitle: "A lightweight server develop framework for golang."
+description: "A lightweight server develop framework for golang."
 author: MuGuangyi
+language: en
 timezone: UTC
 
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://muguangyi.github.io/seek.io/
-root: /seek.io/
+url: https://muguangyi.github.io/seek.io
+root: /
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: ../node_modules/hexo-theme-cookbook
+theme: navy-s
 
-ignore:
-  - '**/node_modules/**/*node_modules'
+highlight:
+  enable: true
+  line_number: false
 
-node_sass:
-  includePaths:
-   - node_modules
-
-cookbook:
-  favicon: favicon.ico
-  partials:
-    index:
-      - _layout/index.ejs
-  tag:
-    anchor:
-      default: seek
-      core: https://github.com/muguangyi/seek
+disqus_shortname: seek.io
+github: muguangyi/seek
