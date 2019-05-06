@@ -6,7 +6,7 @@ language: en
 timezone: UTC
 
 url: https://muguangyi.github.io/seek.io
-root: /
+root: /seek.io/
 
 theme: navy-s
 
