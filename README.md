@@ -1,3 +1,3 @@
-# Seek.io [![Build Status](https://travis-ci.com/muguangyi/seek.io.svg?branch=master)](https://travis-ci.com/muguangyi/seek.io)
+# Ship.io [![Build Status](https://travis-ci.com/muguangyi/ship.io.svg?branch=master)](https://travis-ci.com/muguangyi/ship.io)
 
-Seek framework doc website.
+Ship framework doc website.
