@@ -1,8 +1,8 @@
 ---
 title: Documentation
 ---
-Welcome to the **Seek** documentation.
+Welcome to the **Ship** documentation.
 
-## What is Seek?
+## What is Ship?
 
-Seek is a lightweight server develop framework for Go.
+Ship is a lightweight server develop framework for Go.

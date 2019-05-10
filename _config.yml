@@ -1,12 +1,12 @@
-title: Seek
+title: Ship
 subtitle: "A lightweight server develop framework for golang."
 description: "A lightweight server develop framework for golang."
 author: MuGuangyi
 language: en
 timezone: UTC
 
-url: https://muguangyi.github.io/seek.io
-root: /seek.io/
+url: https://muguangyi.github.io/ship.io
+root: /ship.io/
 
 theme: navy-s
 
@@ -14,5 +14,5 @@ highlight:
   enable: true
   line_number: false
 
-disqus_shortname: seek.io
-github: muguangyi/seek
+disqus_shortname: ship.io
+github: muguangyi/ship
