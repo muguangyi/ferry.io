@@ -1,3 +1,3 @@
-# Ship.io [![Build Status](https://travis-ci.com/muguangyi/ship.io.svg?branch=master)](https://travis-ci.com/muguangyi/ship.io)
+# ferry.io [![Build Status](https://travis-ci.com/muguangyi/ferry.io.svg?branch=master)](https://travis-ci.com/muguangyi/ferry.io)
 
-Ship framework doc website.
+Ferry framework doc website.

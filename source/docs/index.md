@@ -1,8 +1,8 @@
 ---
 title: Documentation
 ---
-Welcome to the **Ship** documentation.
+Welcome to the **Ferry** documentation.
 
-## What is Ship?
+## What is Ferry?
 
-Ship is a lightweight server develop framework for Go.
+Ferry is a lightweight server develop framework for Go.

@@ -2,8 +2,8 @@
 title: 文档
 ---
 
-欢迎使用 Ship。
+欢迎使用 Ferry
 
-## 什么是 Ship？
+## 什么是 Ferry？
 
-Ship 是Go 轻量级服务器开发框架。
+Ferry 是Go 轻量级服务器开发框架。
