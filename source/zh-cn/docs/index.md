@@ -6,4 +6,4 @@ title: 文档
 
 ## 什么是 Ferry？
 
-Ferry 是Go 轻量级游戏服务器开发框架。
+Ferry 是Go 轻量级服务器框架。
